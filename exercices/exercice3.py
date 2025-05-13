@@ -7,15 +7,3 @@
 # Niveau (Moyen)
 #
 # Concepts abordés : while - if - lower()
-
-motMystere = "python"
-nbrEssais = 3
-
-while nbrEssais > 0:
-    mot = input("Devinez le mot mystère : ")
-    if mot.lower() == motMystere:
-        print("Gagné")
-        break
-    else:
-        nbrEssais -= 1
-        print("Perdu")
