@@ -6,10 +6,3 @@
 # Niveau (Facile)
 #
 # Concepts abordés : input() - print() - modulo % - if
-
-a = input("Entrez un nombre : ")
-
-if int(a) % 2 == 0:
-    print("Le nombre est pair")
-else:
-    print("Le nombre est impair")

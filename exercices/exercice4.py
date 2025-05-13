@@ -7,8 +7,3 @@
 # Niveau (Facile)
 #
 # Concepts abordés : def - paramètres - appel de fonction
-
-def afficher(mot):
-    print(mot)
-
-afficher("Bonjour")
