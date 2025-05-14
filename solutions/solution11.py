@@ -1,5 +1,4 @@
 import re
-from collections import Counter
 
 def analyser_texte():
     choix = input("Voulez-vous saisir votre propre texte? (o/n): ").lower()
